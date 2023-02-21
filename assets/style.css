@@ -1,0 +1,92 @@
+/*Setting rules for the header element*/
+header {
+    display: flex;
+    font-size: 25px;
+    justify-content: space-between;
+}
+
+/*Setting rules for the class called center*/
+.center {
+    margin: 100px;
+}
+
+/*Setting rules for the h1 element*/
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+/*Setting rules for the p element*/
+p {
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: bottom;
+    word-wrap: normal;
+}
+
+/*Setting rules for the id called btn*/
+#btn {
+    margin-left: 800px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+
+/*Setting rules for the class named choiceBtn*/
+.choiceBtn {
+    display: flex;
+    margin-left: 355px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+
+/*Setting rules for the class called wrong*/
+.wrong {
+    margin-left: 355px;
+    margin-top: 20px;
+    font-size: 25px;
+    border-top: solid;
+    margin-right: 350px;
+}
+
+/*Setting hover rules for the class called choiceBtn*/
+.choiceBtn:hover {
+    opacity: 0.5;
+}
+
+/*Setting hover rules for the id called btn*/
+#btn:hover {
+    opacity: 0.5;
+}
+
+/*Setting rules for the class called highScore*/
+.highScore {
+    text-align: center;
+    font-size: 40px;
+}
+
+/*Setting rules for the class called score*/
+.score {
+    font-size: 30px;
+    text-align: center;
+}
+
+/*Setting rules for the form element*/
+form {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/*Setting rules for the class called submitBtn*/
+.submitBtn {
+    background-color: blue;
+    color: white;
+}
+
+/*Setting hover rules for the class called submitBtn*/
+.submitBtn:hover {
+    opacity: 0.5;
+}
