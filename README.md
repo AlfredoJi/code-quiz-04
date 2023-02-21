@@ -13,7 +13,7 @@ see the scores on the highscore page.
 ## Installation
 
 No steps needed to install. Just follow this URL to get to website.
-URL: 
+URL: https://alfredoji.github.io/code-quiz-04/
 
 ## Usage
 
@@ -26,4 +26,4 @@ page or take the quiz again.
 
 ## Image
 
-![]()
+![Code-quiz](./assets/Code-quiz.jpeg)
